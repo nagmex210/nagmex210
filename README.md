@@ -1,8 +1,7 @@
 ### Hi there 👋
-- Barış yaycı
 - 🥶 freshman 
-- 📖 Studying at a university
-- 🎓 Graduated from a high school
+- 📖 Studying at a bilkent
+- 🎓 Graduated from Dame de Sion
 
 <!--
 **nagmex210/nagmex210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
