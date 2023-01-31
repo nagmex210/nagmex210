@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🥶 freshman 
-- 📖 Studying at bilkent
+- 📖 Studying at University
 - 🎓 Graduated from Dame de Sion
 
 <!--
