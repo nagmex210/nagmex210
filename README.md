@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🥶 freshman 
-- 📖 Studying at University
+- 🥶 FRESHMAN
+- 📖 Studying at Couch 🐏 University
 - 🎓 Graduated from Dame de Sion
-
+- ⚡ Fun fact: orospu çocuğyum 
 <!--
 **nagmex210/nagmex210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
