@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🥶 FRESHMAN
-- 📖 Studying at Couch 🐏 University
+- 📖 Studying at Bilkent University
 - 🎓 Graduated from Dame de Sion
 - ⚡ Fun fact: orospu çocuğyum 
 <!--
