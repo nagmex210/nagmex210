@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🥶 FRESHMAN
-- 📖 Studying at  University
+- 📖 Studying at Koç University
 - 🎓 Graduated from Dame de Sion
-- ⚡ Fun fact: orospu çocuğyum 
 <!--
 **nagmex210/nagmex210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
