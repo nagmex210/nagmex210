@@ -1,5 +1,4 @@
 ### Hi there 👋
-- Bilkent CS ex:Koç
 <!--
 **nagmex210/nagmex210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
